@@ -1,0 +1,190 @@
+ul {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: blue;
+}
+
+li {
+    float: left;
+}
+
+li a:hover{
+    color: red;
+}
+
+li h3 {
+    color: red;
+    margin-top: 16px;
+}
+
+.mtavari{
+    margin-left: 40px;
+}
+
+
+.photo{
+    width: 60%;
+    height: 370px;
+    display: inline-block;
+    background-color: aqua;
+    margin-top: 40px;
+    margin-left: 70px;
+    background-image: url("../images/tree.jpg");
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.photo p{
+    width: 200px;
+    font-size: 20px;
+    color: chocolate;
+    margin-left: 30px;
+}
+
+
+.feature1 {
+    font-size: 18px;
+    color: gray;
+    margin-left: 80px;
+}
+
+.class1{
+    width: 45%;
+    height: 200px;
+    background-color: gainsboro;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.class1 h3 {
+    margin-left: 30px;
+    color: blue;
+}
+
+.class1 p {
+    width: 200px;
+    height: 150px;
+    float: right;
+}
+
+.class2{
+    width: 230px;
+    height: 140px;
+    margin-left: 30px;
+    background-color: blue;
+    background-image: url("../images/tree2.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.class3{
+    width: 230px;
+    height: 140px;
+    margin-left: 30px;
+    background-color: blue;
+    background-image: url("../images/sea.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.icons{
+    display: inline-block;
+}
+
+.icons a{
+    width: 60px;
+    height: 80px;
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.navigation{
+    display: inline-block;
+}
+
+.may{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+
+.may h3 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 12px;
+}
+
+.may1{
+    margin-left: 43px;
+    margin-top: 5px;
+}
+
+.text{
+    margin-left: 43px;
+}
+
+.textandphoto{
+    height: 300px;
+    width: 1200px;
+    margin-left: 43px;
+    
+}
+
+.paragraph{
+    width: 600px;
+    height: 250px;
+    float: right;
+    margin-right: 30px;
+}
+
+.forphoto{
+    width: 300px;
+    height: 200px;
+    margin-left: 30px;
+    background-image: url("../images/code.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.forphoto1{
+    width: 300px;
+    height: 250px;
+    margin-left: 30px;
+    background-image: url("../images/code1.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.forphoto2{
+    width: 300px;
+    height: 250px;
+    margin-left: 30px;
+    background-image: url("../images/code2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.contact{
+    text-align: center;
+}
+
+
+
